@@ -1,6 +1,8 @@
 
 # lptrace
 
+## NOTE: Code modified for Python3 from the original fork
+
 lptrace is strace for Python programs. It lets you see in real-time
 what functions a Python program is running. It's particularly useful
 to debug weird issues on production.
